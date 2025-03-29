@@ -1,0 +1,178 @@
+{
+  "product_tree": [
+    {
+      "id": "1",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxxDvVzv2I1NIOK1Z91aiuoSYCAMkngGbALA&s.jpg",
+      "name": "Spider Plant",
+      "onffo": "Ưa bóng",
+      "status": "Còn 156 sp",
+      "size": "nhỏ",
+      "origin": "Châu phi",
+      "price": "250.000"
+    },
+    {
+      "id": "2",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRunZ4CgE3IUEsHVf2rrJN9Ph2OS14flYlJUA&s.jpg",
+      "name": "Song of India",
+      "onffo": "Ưa bóng",
+      "status": "Còn 156 sp",
+      "size": "nhỏ",
+      "origin": "Châu phi",
+      "price": "250.000"
+    }
+  ],
+  "product_pot": [
+    {
+      "id": "1",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY1jmU0en6hOA23ziWH3ad6uJG9W08H9IGDQ&s.jpg",
+      "name": "Planta Trắng",
+      "price": "250.000"
+    },
+    {
+      "id": "2",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ14VLaJZ6RnHnLJG1iXVUQ5Hvjs7eis_QHbw&s.jpg",
+      "name": "Planta Lemon Balm",
+      "price": "250.000"
+    }
+  ],
+  "product_tools": [
+    {
+      "id": "1",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc9uqnlMdQmtWFjTfL5eGLvoFIgd3wrhDVgQ&s.jpg",
+      "name": "Xẻng",
+      "price": "250.000"
+    },
+    {
+      "id": "2",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQirzIfRPefy7oZpqCbdYxL1WsbQ2rUaYtuwA&s.jpg",
+      "name": "Búa",
+      "price": "250.000"
+    }
+  ],
+  "LOGIN": [
+    {
+      "id": "1",
+      "name": "dung",
+      "email": "johndoe@example.com",
+      "pass": "12345",
+      "phone": "0987654321"
+    },
+    {
+      "id": "5b75",
+      "email": "quyen@gmail.com",
+      "name": "quyen",
+      "pass": "123",
+      "phone": "0987654321"
+    },
+    {
+      "id": "7b0c",
+      "username": "dung",
+      "password": "12345"
+    },
+    {
+      "id": "1397",
+      "username": "dung",
+      "password": "123456"
+    },
+    {
+      "id": "dbe7",
+      "username": "dung",
+      "password": "123456"
+    },
+    {
+      "id": "7490",
+      "username": "dung",
+      "password": "123456"
+    },
+    {
+      "id": "a2b2",
+      "username": "dung",
+      "password": "123456"
+    },
+    {
+      "id": "2bde",
+      "username": "dung",
+      "password": "123456"
+    },
+    {
+      "id": "6ac9",
+      "username": "dung",
+      "password": "123456"
+    },
+    {
+      "id": "175e",
+      "username": "dung",
+      "password": "123456"
+    },
+    {
+      "id": "196e",
+      "username": "dung",
+      "password": "123456"
+    },
+    {
+      "id": "3e56",
+      "username": "c",
+      "password": "1"
+    },
+    {
+      "id": "c42b",
+      "username": "d",
+      "password": "a"
+    },
+    {
+      "id": "2df9",
+      "username": "c",
+      "password": "123"
+    },
+    {
+      "id": "02b7",
+      "username": "dung",
+      "password": "123"
+    },
+    {
+      "id": "75e9",
+      "username": "dung",
+      "password": "123"
+    },
+    {
+      "id": "b48f",
+      "username": "dung",
+      "password": "12345"
+    },
+    {
+      "id": "22ae",
+      "username": "dung1232gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "51ea",
+      "username": "fef",
+      "password": "fefe"
+    },
+    {
+      "id": "865f",
+      "username": "d",
+      "password": "d"
+    },
+    {
+      "id": "db80",
+      "username": "hhhh",
+      "password": "hbhhh"
+    },
+    {
+      "id": "4b25",
+      "username": "fefe",
+      "password": "fef"
+    },
+    {
+      "id": "cba6",
+      "username": "fefe",
+      "password": "fef"
+    },
+    {
+      "id": "59aa",
+      "username": "dung",
+      "password": "123"
+    }
+  ]
+}
